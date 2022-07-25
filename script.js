@@ -17,3 +17,6 @@ button3.addEventListener("click", () => {
     "Swoją przygodę z Frontendem rozpocząłem w 2022r. Mam nadzieję, że jestem na dobrej drodze. Pozdrawiam, Filip Bukowiec"
   );
 });
+
+const button4 = document.getElementById("Button4");
+button4.addEventListener("click", () => location.href="https://github.com/FilipBukowiec");
